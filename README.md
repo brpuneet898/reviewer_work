@@ -6,4 +6,4 @@ This repo consists all the work that I have done as a Reviewer.
   
 2. Journal of Computational Law and Legal Technology
 - Reviewer since 24th July 2026
-- 1 manuscript   
+- 2 manuscript   
